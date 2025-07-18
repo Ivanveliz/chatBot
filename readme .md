@@ -2,7 +2,7 @@
 
 Este proyecto consiste en un chatbot diseñado para automatizar respuestas y guiar al usuario en la elección de clases, planes y horarios dentro de un gimnasio. Utiliza lógica condicional y estructuras de decisión (tipo árbol) que se planificaron en diagramas realizados con Draw\.io.
 
-## 📌 Funcionalidades principales
+##  Funcionalidades principales
 
 - Mostrar horarios y clases disponibles.
 - Ofrecer información sobre planes.
@@ -10,13 +10,13 @@ Este proyecto consiste en un chatbot diseñado para automatizar respuestas y gui
 - Redireccionar al menú principal según la acción elegida.
 - Permitir contacto vía WhatsApp al finalizar ciertas acciones.
 
-## 🧠 Lógica implementada
+##  Lógica implementada
 
 - Flujos de conversación con nodos de decisión (sí/no, elegir día, elegir hora, etc.).
 - Validación de errores básicos (por ejemplo: si el usuario escribe un día incorrecto, se lo vuelve a preguntar).
 - Separación clara de secciones: clases, horarios, planes, contacto, etc.
 
-## 🧰 Herramientas utilizadas
+## Herramientas utilizadas
 
 - 🧩 **Draw\.io** para el diseño de los diagramas de flujo (flujo conversacional del chatbot).
 - 📄 **Markdown** para documentar el proyecto.
@@ -49,18 +49,18 @@ Bot: Nuestros planes actuales:
 
 Si el usuario responde “sí”, se le solicita nombre y número.
 
-## 📁 Archivos incluidos
+##  Archivos incluidos
 
-- `/diagramas/chatbot-flujo.drawio` → Diagrama general del flujo del chatbot.
+- `chatBotHéroes.drawio` → Diagrama general del flujo del chatbot.
 - `/README.md` → Documentación del proyecto.
 
-## 🧾 Licencia
+##  Licencia
 
 Este proyecto fue realizado con fines de práctica y aprendizaje.
 
 ---
 
-💬 Si querés aportar, proponer mejoras o tenés dudas, ¡escribime!
+ Si querés aportar, proponer mejoras o tenés dudas, ¡escribime!
 
-Hecho con 💪 por Iván Veliz
+Realizado por Iván Veliz
 
