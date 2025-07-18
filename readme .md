@@ -51,7 +51,7 @@ Si el usuario responde “sí”, se le solicita nombre y número.
 
 
 ##  Link para ver el diagrama en draw.io:
-[🔍 Abrir diagrama en Draw.io](https://app.diagrams.net/?url=https://raw.githubusercontent.com/ivanveliz/chatbot/main/chatBotH%C3%A9roes.drawio)
+[🔍 Abrir diagrama en Draw.io](https://app.diagrams.net/?url=https://raw.githubusercontent.com/ivanveliz/chatbot/main/chatBotH%C3%A9roes.drawio#G14uuM-L_FAdpZzBkI5gG4MK1swFdh6NU7#%7B%22pageId%22%3A%22C5RBs43oDa-KdzZeNtuy%22%7D)
 
 ##  Archivos incluidos
 - `chatBotHéroes.drawio` → Diagrama general del flujo del chatbot.
