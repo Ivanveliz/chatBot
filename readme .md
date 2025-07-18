@@ -49,15 +49,15 @@ Bot: Nuestros planes actuales:
 
 Si el usuario responde “sí”, se le solicita nombre y número.
 
-##  Archivos incluidos
-
 
 ##  Link para ver el diagrama en draw.io:
 [🔍 Abrir diagrama en Draw.io](https://app.diagrams.net/?url=https://raw.githubusercontent.com/ivanveliz/chatbot/main/chatBotH%C3%A9roes.drawio)
 
+##  Archivos incluidos
 - `chatBotHéroes.drawio` → Diagrama general del flujo del chatbot.
 - `/readme.md` → Documentación del proyecto.
--`chatBotHéroes.jpg` → Imagen del chat en png
+-`chatBotHéroes.jpg` → Imagen del chat en png.
+
 
 ##  Licencia
 
